@@ -1,0 +1,25 @@
+PAINEIS DOS REPRESENTANTES - PUBLICAR NO GITHUB PAGES (uma vez so)
+================================================================
+
+Arquivos desta pasta (os nomes tem um codigo no final de proposito - dificulta alguem adivinhar o link):
+  daniel-c15d2c.html   -> painel do Daniel
+  marcelo-76fc64.html  -> painel do Marcelo
+  uander-33b9cd.html   -> painel do Uander
+
+PASSO A PASSO (5 minutos)
+1. Entre em github.com logada e clique no "+" (canto superior direito) -> "New repository".
+2. Repository name: paineis   |   marque "Public"   |   marque "Add a README file"   |   clique "Create repository".
+3. Dentro do repositorio, clique em "Add file" -> "Upload files". Arraste os 3 arquivos .html desta pasta e clique "Commit changes".
+4. Clique em "Settings" (aba do repositorio) -> menu lateral "Pages" -> em "Branch" escolha "main" e a pasta "/ (root)" -> "Save".
+5. Aguarde 1 a 2 minutos. Os links ficam assim (troque SEUUSUARIO pelo seu usuario do GitHub):
+     https://SEUUSUARIO.github.io/paineis/daniel-c15d2c.html
+     https://SEUUSUARIO.github.io/paineis/marcelo-76fc64.html
+     https://SEUUSUARIO.github.io/paineis/uander-33b9cd.html
+   Abrem em qualquer celular/navegador, sem login. E so mandar por WhatsApp.
+
+ATUALIZACOES
+- Toda vez que eu te entregar os paineis novos, os arquivos vem com o MESMO nome. Voce repete o passo 3 (Add file -> Upload files -> arrastar -> Commit). O link nao muda; o representante so atualiza a pagina.
+
+ATENCAO
+- O repositorio e publico: quem tiver o link exato ve o painel. Nao poste o link em lugar aberto; mande direto pro representante.
+- Nao envie o link da pasta/repositorio pros representantes, so o link do arquivo de cada um.
